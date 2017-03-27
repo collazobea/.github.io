@@ -5,6 +5,9 @@
   text-align: center;
   background-color: Black;
 }
+body {
+  margin: 0 auto;
+}
 h1 {
   font-size: 50px;
   font-weight:bold;
